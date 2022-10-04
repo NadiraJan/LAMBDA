@@ -15,6 +15,7 @@ public class App {
         };
 
         Function<Integer, String> function = (Integer i) -> {
+
             double i2 =i;
 
             double newNumber = i2/4*100;
